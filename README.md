@@ -1,5 +1,5 @@
 # A_-search-algorithm
-我是BUPT 自动化 的学生 ZHR  
+我是BUPT 自动化 的学生 SH 
 这是《人工智能创新实训》 第一次实验 《A* 搜索算法》 的代码  
 + test15.py 是最完整的最终版本  
 + test13.py 是利用局部可采纳性进行优化后的版本  
